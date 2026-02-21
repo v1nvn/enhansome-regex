@@ -117,7 +117,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](origin/
   <summary>✳️ <b>Notable mentions</b></summary>
   <br>
 
-* [Regex Generator](https://regex-generator.olafneumann.org/) \[[*GitHub*](https://github.com/noxone/regex-generator) ⭐ 461 | 🐛 15 | 🌐 Kotlin | 📅 2026-02-13] - Generate simple regexes from a sample text.
+* [Regex Generator](https://regex-generator.olafneumann.org/) \[[*GitHub*](https://github.com/noxone/regex-generator) ⭐ 463 | 🐛 15 | 🌐 Kotlin | 📅 2026-02-13] - Generate simple regexes from a sample text.
 * [Regex.ai](https://regex.ai/) - Mark samples in a text and use AI to generate potential regexes.
 
 </details>
@@ -126,8 +126,8 @@ Contributions are welcome. Add links through pull requests ([guidelines](origin/
 
 *Visualize how your regular expressions are structured or operate.*
 
-* [Regulex](https://jex.im/regulex/) \[[*GitHub*](https://github.com/CJex/regulex) ⭐ 5,836 | 🐛 22 | 🌐 TypeScript | 📅 2022-07-12] - Create railroad diagrams. Flavor: JavaScript.
-* [Regex Vis](https://regex-vis.com/) \[[*GitHub*](https://github.com/Bowen7/regex-vis) ⭐ 4,245 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-02] - Create railroad diagrams, with visual editor. Flavor: JavaScript.
+* [Regulex](https://jex.im/regulex/) \[[*GitHub*](https://github.com/CJex/regulex) ⭐ 5,837 | 🐛 22 | 🌐 TypeScript | 📅 2022-07-12] - Create railroad diagrams. Flavor: JavaScript.
+* [Regex Vis](https://regex-vis.com/) \[[*GitHub*](https://github.com/Bowen7/regex-vis) ⭐ 4,244 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-02] - Create railroad diagrams, with visual editor. Flavor: JavaScript.
   * Languages: 🇺🇸, 🇨🇳.
 * [Nodexr](https://www.nodexr.net/) \[[*GitHub*](https://github.com/Jcparkyn/nodexr) ⭐ 445 | 🐛 9 | 🌐 C# | 📅 2023-11-28] - Graphical editor with visual hierarchy. Flavor: .NET.
 
@@ -147,7 +147,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](origin/
 
 ### Command line
 
-* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 60,095 | 🐛 115 | 🌐 Rust | 📅 2026-02-13 - Better and faster grep. Recursively searches directories while respecting gitignore rules and skipping hidden/binary files.
+* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 60,137 | 🐛 115 | 🌐 Rust | 📅 2026-02-20 - Better and faster grep. Recursively searches directories while respecting gitignore rules and skipping hidden/binary files.
   * Flavors: Rust (default), PCRE.
 * [nomino](https://github.com/yaa110/nomino) ⭐ 706 | 🐛 6 | 🌐 Rust | 📅 2025-08-07 - Rename files uses regexes.
   * Flavor: Rust.
@@ -159,7 +159,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](origin/
 * [Aba Search and Replace](https://www.abareplace.com/) (Windows, $30) - Displays matches as you type.
 * [PowerGREP](https://www.powergrep.com/) (Windows, $159) - Can search through archives, binary files, PDFs, docs/sheets, emails, etc., via its GUI or the command line.
   * Flavors: Emulates hundreds of flavors/versions.
-* [PowerRename](https://github.com/microsoft/PowerToys) ⭐ 129,931 | 🐛 8,196 | 🌐 C# | 📅 2026-02-20 (Windows) - Rename files using regexes.
+* [PowerRename](https://github.com/microsoft/PowerToys) ⭐ 129,953 | 🐛 8,194 | 🌐 C# | 📅 2026-02-21 (Windows) - Rename files using regexes.
 
 ## Tutorials
 
@@ -168,7 +168,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](origin/
 ### Traditional
 
 * [Regular-Expressions.info](https://www.regular-expressions.info/) - Covers numerous regex flavors.
-* [The Modern JavaScript Tutorial: Regular expressions](https://javascript.info/regular-expressions) \[[*GitHub*](https://github.com/javascript-tutorial/en.javascript.info) ⭐ 25,125 | 🐛 515 | 🌐 HTML | 📅 2025-11-20] - Guide to using regexes in JavaScript.
+* [The Modern JavaScript Tutorial: Regular expressions](https://javascript.info/regular-expressions) \[[*GitHub*](https://github.com/javascript-tutorial/en.javascript.info) ⭐ 25,127 | 🐛 515 | 🌐 HTML | 📅 2025-11-20] - Guide to using regexes in JavaScript.
   * Languages: 🇺🇸, 🇪🇸, 🇫🇷, 🇮🇹, 🇯🇵, 🇷🇺, 🇺🇦, 🇨🇳 (partial for [others](https://javascript.info/translate)).
 
 <details>
@@ -203,7 +203,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](origin/
 
 #### Regex flavors
 
-* RE2: [Syntax](https://github.com/google/re2/wiki/Syntax) ⭐ 9,601 | 🐛 12 | 🌐 C++ | 📅 2026-01-22.
+* RE2: [Syntax](https://github.com/google/re2/wiki/Syntax) ⭐ 9,603 | 🐛 12 | 🌐 C++ | 📅 2026-01-22.
 * Oniguruma: [RE](https://github.com/kkos/oniguruma/blob/master/doc/RE) ⚠️ Archived.
 * Onigmo: [RE](https://github.com/k-takata/Onigmo/blob/master/doc/RE) ⭐ 672 | 🐛 50 | 🌐 C | 📅 2024-06-15.
 * Boost.Regex: [Manual](https://boost.org/libs/regex).
@@ -232,19 +232,19 @@ Contributions are welcome. Add links through pull requests ([guidelines](origin/
 
 *Read or contribute to the code behind major regex implementations.*
 
-* [Python: re](https://github.com/python/cpython/tree/main/Lib/re) ⭐ 71,643 | 🐛 9,247 | 🌐 Python | 📅 2026-02-19 and [regex](https://github.com/mrabarnett/mrab-regex) ⭐ 575 | 🐛 79 | 🌐 C | 📅 2026-02-19 - Standard and extended regex libraries.
+* [Python: re](https://github.com/python/cpython/tree/main/Lib/re) ⭐ 71,650 | 🐛 9,263 | 🌐 Python | 📅 2026-02-21 and [regex](https://github.com/mrabarnett/mrab-regex) ⭐ 575 | 🐛 79 | 🌐 C | 📅 2026-02-19 - Standard and extended regex libraries.
 * JavaScript:
-  * [V8: Irregexp](https://github.com/v8/v8/tree/main/src/regexp) ⭐ 24,852 | 🐛 7 | 🌐 C++ | 📅 2026-02-19 - Regex engine used by Chrome, Edge, [Firefox](https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/), etc.
-  * [JavaScriptCore: RegExp](https://github.com/WebKit/WebKit/blob/main/Source/JavaScriptCore/runtime/RegExp.cpp) ⭐ 9,610 | 🐛 1,859 | 🌐 JavaScript | 📅 2026-02-20 - Regex engine used by Safari.
-* [Java: java.util.regex](https://github.com/openjdk/jdk/tree/master/src/java.base/share/classes/java/util/regex) ⭐ 22,618 | 🐛 427 | 🌐 Java | 📅 2026-02-20 - JDK standard regexes.
-* [.NET: System.Text.RegularExpressions](https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.RegularExpressions) ⭐ 17,684 | 🐛 8,352 | 🌐 C# | 📅 2026-02-20 - Shared by all .NET languages (C#, VB, etc.).
-* [RE2](https://github.com/google/re2) ⭐ 9,601 | 🐛 12 | 🌐 C++ | 📅 2026-01-22 - Popular C++ regex library used by Go, etc. Non-backtracking engine.
-* [Hyperscan](https://github.com/intel/hyperscan) ⭐ 5,313 | 🐛 195 | 🌐 C++ | 📅 2026-02-13 - Intel's high-performance library, used for [DPI](https://en.wikipedia.org/wiki/Deep_packet_inspection).
-* [Rust: regex](https://github.com/rust-lang/regex) ⭐ 3,901 | 🐛 55 | 🌐 Rust | 📅 2026-02-03 - Non-backtracking engine.
-* [ICU](https://github.com/unicode-org/icu/blob/main/icu4c/source/i18n/regexcmp.cpp) ⭐ 3,409 | 🐛 101 | 🌐 C++ | 📅 2026-02-19 - Unicode org's package with full Unicode support.
+  * [V8: Irregexp](https://github.com/v8/v8/tree/main/src/regexp) ⭐ 24,854 | 🐛 7 | 🌐 C++ | 📅 2026-02-20 - Regex engine used by Chrome, Edge, [Firefox](https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/), etc.
+  * [JavaScriptCore: RegExp](https://github.com/WebKit/WebKit/blob/main/Source/JavaScriptCore/runtime/RegExp.cpp) ⭐ 9,611 | 🐛 1,868 | 🌐 JavaScript | 📅 2026-02-21 - Regex engine used by Safari.
+* [Java: java.util.regex](https://github.com/openjdk/jdk/tree/master/src/java.base/share/classes/java/util/regex) ⭐ 22,619 | 🐛 426 | 🌐 Java | 📅 2026-02-21 - JDK standard regexes.
+* [.NET: System.Text.RegularExpressions](https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.RegularExpressions) ⭐ 17,687 | 🐛 8,381 | 🌐 C# | 📅 2026-02-21 - Shared by all .NET languages (C#, VB, etc.).
+* [RE2](https://github.com/google/re2) ⭐ 9,603 | 🐛 12 | 🌐 C++ | 📅 2026-01-22 - Popular C++ regex library used by Go, etc. Non-backtracking engine.
+* [Hyperscan](https://github.com/intel/hyperscan) ⭐ 5,314 | 🐛 195 | 🌐 C++ | 📅 2026-02-13 - Intel's high-performance library, used for [DPI](https://en.wikipedia.org/wiki/Deep_packet_inspection).
+* [Rust: regex](https://github.com/rust-lang/regex) ⭐ 3,902 | 🐛 55 | 🌐 Rust | 📅 2026-02-03 - Non-backtracking engine.
+* [ICU](https://github.com/unicode-org/icu/blob/main/icu4c/source/i18n/regexcmp.cpp) ⭐ 3,410 | 🐛 102 | 🌐 C++ | 📅 2026-02-19 - Unicode org's package with full Unicode support.
 * [Oniguruma](https://github.com/kkos/oniguruma) ⚠️ Archived - C regex library used by Ruby 1.9, TextMate grammars, etc.
-* [Perl](https://github.com/Perl/perl5/blob/blead/regexp.h) ⭐ 2,230 | 🐛 2,390 | 🌐 Perl | 📅 2026-02-19 - See [perlreguts](https://perldoc.perl.org/perlreguts).
-* [PCRE2](https://github.com/PCRE2Project/pcre2) ⭐ 1,219 | 🐛 46 | 🌐 C | 📅 2026-02-09 - Popular C regex library used by PHP, R, etc.
+* [Perl](https://github.com/Perl/perl5/blob/blead/regexp.h) ⭐ 2,230 | 🐛 2,388 | 🌐 Perl | 📅 2026-02-20 - See [perlreguts](https://perldoc.perl.org/perlreguts).
+* [PCRE2](https://github.com/PCRE2Project/pcre2) ⭐ 1,220 | 🐛 46 | 🌐 C | 📅 2026-02-09 - Popular C regex library used by PHP, R, etc.
 * [Onigmo](https://github.com/k-takata/Onigmo) ⭐ 672 | 🐛 50 | 🌐 C | 📅 2024-06-15 - Forked from Oniguruma. Used by Ruby 2.0+.
 * [Boost.Regex](https://github.com/boostorg/regex) ⭐ 109 | 🐛 45 | 🌐 C++ | 📅 2025-12-10 - C++ regex library.
 
@@ -292,7 +292,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](origin/
 ### ReDoS checkers
 
 * [vuln-regex-detector](https://github.com/davisjam/vuln-regex-detector) ⭐ 340 | 🐛 24 | 🌐 Perl | 📅 2022-01-07 - Perl library for detecting ReDoS vulnerability.
-* [recheck](https://github.com/makenowjust-labs/recheck) ⭐ 290 | 🐛 12 | 🌐 Scala | 📅 2026-02-19 \[[*home*](https://makenowjust-labs.github.io/recheck/)] - JavaScript and Scala library for detecting ReDoS vulnerability. Can be used as an ESLint plugin.
+* [recheck](https://github.com/makenowjust-labs/recheck) ⭐ 290 | 🐛 13 | 🌐 Scala | 📅 2026-02-21 \[[*home*](https://makenowjust-labs.github.io/recheck/)] - JavaScript and Scala library for detecting ReDoS vulnerability. Can be used as an ESLint plugin.
 * [regex.rip](https://regex.rip/) - Test a regex for ReDoS vulnerability.
 
 ⚠️ These tools have limitations on supported syntax.
@@ -320,21 +320,21 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 ### Alternative regex builders and engines
 
 * [Regex+](https://github.com/slevithan/regex) ⭐ 630 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-16 - A template tag for extended, readable, high-performance JavaScript regexes.
-* Use other engines via WebAssembly: [node-re2](https://github.com/uhop/node-re2) ⭐ 537 | 🐛 6 | 🌐 C++ | 📅 2026-02-09 (RE2), [rregex](https://github.com/2fd/rregex) ⭐ 30 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-03 (Rust's `regex`), [vscode-oniguruma](https://github.com/microsoft/vscode-oniguruma) ⭐ 134 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-07 (Oniguruma).
+* Use other engines via WebAssembly: [node-re2](https://github.com/uhop/node-re2) ⭐ 537 | 🐛 6 | 🌐 C++ | 📅 2026-02-09 (RE2), [rregex](https://github.com/2fd/rregex) ⭐ 30 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-20 (Rust's `regex`), [vscode-oniguruma](https://github.com/microsoft/vscode-oniguruma) ⭐ 134 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-07 (Oniguruma).
 * [Oniguruma-To-ES](https://github.com/slevithan/oniguruma-to-es) ⭐ 135 | 🐛 5 | 🌐 JavaScript | 📅 2025-11-27 - Convert Oniguruma patterns to native JavaScript regexes.
 
 ### Abstracted regex syntax
 
 * [Melody](https://github.com/yoav-lavi/melody) ⭐ 4,742 | 🐛 8 | 🌐 Rust | 📅 2024-11-24 \[[*docs*](https://yoav-lavi.github.io/melody/book/)] - A language that compiles to regexes.
-* Compose with functions: [compose-regexp.js](https://github.com/compose-regexp/compose-regexp.js) ⭐ 149 | 🐛 2 | 🌐 JavaScript | 📅 2024-09-26, [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) ⭐ 12,156 | 🐛 29 | 🌐 JavaScript | 📅 2024-08-07 (implementations for [many languages](https://verbalexpressions.github.io/)), [magic-regexp](https://github.com/unjs/magic-regexp) ⭐ 4,313 | 🐛 35 | 🌐 TypeScript | 📅 2026-02-20 \[[*home*](https://regexp.dev/)], [Super Expressive](https://github.com/francisrstokes/super-expressive) ⭐ 4,634 | 🐛 10 | 🌐 JavaScript | 📅 2024-07-05 \[[*playground*](https://nartc.github.io/ng-super-expressive/)].
+* Compose with functions: [compose-regexp.js](https://github.com/compose-regexp/compose-regexp.js) ⭐ 149 | 🐛 2 | 🌐 JavaScript | 📅 2024-09-26, [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) ⭐ 12,156 | 🐛 29 | 🌐 JavaScript | 📅 2024-08-07 (implementations for [many languages](https://verbalexpressions.github.io/)), [magic-regexp](https://github.com/unjs/magic-regexp) ⭐ 4,314 | 🐛 35 | 🌐 TypeScript | 📅 2026-02-20 \[[*home*](https://regexp.dev/)], [Super Expressive](https://github.com/francisrstokes/super-expressive) ⭐ 4,634 | 🐛 10 | 🌐 JavaScript | 📅 2024-07-05 \[[*playground*](https://nartc.github.io/ng-super-expressive/)].
 * [Rexx](https://github.com/yyytcool/rexx) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-06 - A template tag that uses structured syntax with variables and comments.
 
 ### Regex processors, utilities, and more
 
-* [arkregex](https://github.com/arktypeio/arktype/tree/main/ark/regex) ⭐ 7,620 | 🐛 233 | 🌐 TypeScript | 📅 2026-02-02 - `RegExp`-equivalent constructor with TS types.
+* [arkregex](https://github.com/arktypeio/arktype/tree/main/ark/regex) ⭐ 7,623 | 🐛 233 | 🌐 TypeScript | 📅 2026-02-02 - `RegExp`-equivalent constructor with TS types.
 * [regexgen](https://github.com/devongovett/regexgen) ⭐ 3,426 | 🐛 15 | 🌐 JavaScript | 📅 2024-02-15 - Generate a regex that matches a set of strings.
-* Generate strings that match a given regex: [randexp.js](https://github.com/fent/randexp.js) ⭐ 1,870 | 🐛 14 | 🌐 JavaScript | 📅 2025-11-23, [regex-to-strings](https://github.com/wimpyprogrammer/regex-to-strings) ⭐ 33 | 🐛 4 | 🌐 TypeScript | 📅 2026-01-29.
-* [eslint-plugin-regexp](https://github.com/ota-meshi/eslint-plugin-regexp) ⭐ 757 | 🐛 17 | 🌐 TypeScript | 📅 2026-02-17 \[[*home*](https://ota-meshi.github.io/eslint-plugin-regexp/)] - ESLint plugin for finding regex mistakes, etc.
+* Generate strings that match a given regex: [randexp.js](https://github.com/fent/randexp.js) ⭐ 1,871 | 🐛 14 | 🌐 JavaScript | 📅 2025-11-23, [regex-to-strings](https://github.com/wimpyprogrammer/regex-to-strings) ⭐ 33 | 🐛 4 | 🌐 TypeScript | 📅 2026-01-29.
+* [eslint-plugin-regexp](https://github.com/ota-meshi/eslint-plugin-regexp) ⭐ 757 | 🐛 17 | 🌐 TypeScript | 📅 2026-02-20 \[[*home*](https://ota-meshi.github.io/eslint-plugin-regexp/)] - ESLint plugin for finding regex mistakes, etc.
 * [super-regex](https://github.com/sindresorhus/super-regex) ⭐ 221 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-04 - Add an execution timeout to regexes.
 * [Regex Colorizer](https://github.com/slevithan/regex-colorizer) ⭐ 201 | 🐛 3 | 🌐 JavaScript | 📅 2025-11-21 \[[*home*](https://slevithan.github.io/regex-colorizer/demo/)] - Highlight regex syntax.
 * AST builders: [regexpp](https://github.com/eslint-community/regexpp) ⭐ 30 | 🐛 7 | 🌐 TypeScript | 📅 2025-10-23, [regexp-tree](https://github.com/DmitrySoshnikov/regexp-tree) ⭐ 422 | 🐛 52 | 🌐 JavaScript | 📅 2026-01-21, [regjsparser](https://github.com/jviereck/regjsparser) ⭐ 82 | 🐛 9 | 🌐 JavaScript | 📅 2025-11-21/[regjsgen](https://github.com/bnjmnt4n/regjsgen) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-16, [regexp-simple-parser](https://github.com/fabiospampinato/regexp-simple-parser) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-20.
